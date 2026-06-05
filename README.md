@@ -315,7 +315,7 @@ Through this project, the following concepts were applied:
 
 **Student:** Abdul Samad Shaikh
 **Degree:** Bachelor of Engineering (Information Technology)
-**Project Type:** Applied Data Science with Python – Course End Project
+**Project Type:** Applied Data Science with Python – IITG Course End Project
 
 ---
 
