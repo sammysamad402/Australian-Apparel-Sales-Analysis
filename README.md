@@ -296,6 +296,24 @@ Run all cells sequentially.
 
 ---
 
+## Screenshots 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+## State-wise Sales Analysis
+
+![State Sales](images/state_sales.png)
+
+## Group-wise Sales Analysis
+
+![Group Sales](images/group_sales.png)
+
+## Monthly Sales Trend
+
+![Monthly Sales](images/monthly_sales.png)
+
+
 ## 📚 Learning Outcomes
 
 Through this project, the following concepts were applied:
