@@ -289,7 +289,7 @@ jupyter notebook
 Open:
 
 ```text
-Complete_AAL_Sales_Analysis_Notebook.ipynb
+AAL_Sales_Analysis_Notebook.ipynb
 ```
 
 Run all cells sequentially.
